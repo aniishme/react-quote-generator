@@ -3,4 +3,4 @@
 
 React Js
 
-Check .[Demo](https://randomquotegeneretor.netlify.app/) 
+Check [_demo](https://randomquotegeneretor.netlify.app/) 
