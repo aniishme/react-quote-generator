@@ -3,4 +3,4 @@
 
 React Js
 
-Check [_demo](https://randomquotegeneretor.netlify.app/) 
+Check [demo](https://randomquotegeneretor.netlify.app/){:target="_blank" rel="noopener"}
